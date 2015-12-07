@@ -1,0 +1,14 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Pablo Rivera Conde -- Author -- @pablorc
+
+# THANKS
+
+    My wife and cats ^_^
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
