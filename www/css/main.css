@@ -1,4 +1,39 @@
-.title {
+.app {
+  background-color: #002b36;
+  height: 100vh;
+  width: 100vw;
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.app__title {
   font-family: 'Exo 2', sans-serif;
   font-weight: 600;
+  color: #268bd2;
+  font-size: 6em;
+  text-align: center;
+}
+
+.app__subtitle {
+  font-family: 'Exo 2', sans-serif;
+  font-weight: 600;
+  font-size: 4em;
+  text-align: center;
+  color: #6c71c4;
+}
+
+.app__list {
+  text-align: center;
+}
+
+.app__list__item {
+  display: inline;
+}
+
+.contact__item {
+  font-family: 'Exo 2', sans-serif;
+  font-weight: 600;
+  color: #6c71c4;
+  font-size: 2em;
+  text-decoration: none;
 }
